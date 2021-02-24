@@ -1,0 +1,8 @@
+查看数据表中的记录 select * from [数据表] where [列名]=%%
+创建数据库 create database [数据库名];
+选中数据库 use [数据库名]
+观察终端有哪些数据库 show databases
+观察数据库有哪些表格 show tables
+如何创造数据表 create table [数据表名字]
+                VARCHAR/CHAR数据类型，DATE日期
+查看数据表是否创建成功 describe [数据表名称]
